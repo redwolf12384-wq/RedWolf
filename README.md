@@ -1,8 +1,13 @@
-# Community Server
+# Welcome to Our Community Server
 
-Join our community server here: [Invite Link](https://discord.gg/example).
+Community Server - Everyday needs right here! We offer loads of support and help for those who need it, this server is a friendly Heavily moderated server incase some criminals come... Come stay!
+
+Each admin & moderator will have 2fa enabled due to our required terms to become a moderator! Enjoy..
+
+## Invite Link
+
+[Join us on Discord!](https://discord.gg/VJMEJ4wgwV)
 
 ## Server Status
-<iframe src="https://discord.com/widget?id=YOUR_SERVER_ID&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
-**Note:** Ensure you replace `YOUR_SERVER_ID` with the actual server ID.
+<iframe src="https://discord.com/widget?id=1448089993309589536&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
