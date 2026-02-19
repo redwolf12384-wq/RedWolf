@@ -1,13 +1,7 @@
-# Welcome to Our Community Server
+# RedWolf
 
-Community Server - Everyday needs right here! We offer loads of support and help for those who need it, this server is a friendly Heavily moderated server incase some criminals come... Come stay!
+This is the README for the RedWolf project.
 
-Each admin & moderator will have 2fa enabled due to our required terms to become a moderator! Enjoy..
+## Discord Widget
 
-## Invite Link
-
-[Join us on Discord!](https://discord.gg/VJMEJ4wgwV)
-
-## Server Status
-
-<iframe src="https://discord.com/widget?id=1448089993309589536&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[Join our Discord community!](https://discord.com/widget?id=1448089993309589536&theme=dark)
